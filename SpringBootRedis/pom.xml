@@ -44,7 +44,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.46</version>
+            <version>8.0.16</version>
         </dependency>
         <!--   redis 依赖     -->
         <dependency>
@@ -88,7 +88,7 @@
                     <dependency>
                         <groupId>mysql</groupId>
                         <artifactId>mysql-connector-java</artifactId>
-                        <version>8.0.15</version>
+                        <version>8.0.16</version>
                     </dependency>
                 </dependencies>
             </plugin>
